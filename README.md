@@ -1,1 +1,1 @@
-# CognoRise-infotech-JAVA
+# JAVA-Projects
